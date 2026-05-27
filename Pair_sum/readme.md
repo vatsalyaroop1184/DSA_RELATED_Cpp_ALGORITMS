@@ -1,0 +1,2 @@
+Here in this code there are two functions considering brute force method [O(n^2)] and optimal method i.e two pointer method [O(n)] .
+In second method u should check whether u included for **multiple pairs also.** 
