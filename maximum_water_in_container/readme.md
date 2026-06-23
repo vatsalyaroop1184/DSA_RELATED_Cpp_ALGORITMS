@@ -1,0 +1,2 @@
+-> when we use "class" type functions to work with dont forget to put ";" at ending of class bracket 
+->in both methods we have thought breadths is regular in all the intervals we can work i think for irregular breadths
